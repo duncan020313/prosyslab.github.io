@@ -24,6 +24,6 @@
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    <p class="archive__item-excerpt" itemprop="description">{{ post.kor_author }} / {{ post.date | date_to_string | markdownify | strip_html }}</p>
+    <p class="archive__item-excerpt" itemprop="description">{{ post.kor_author }} / {{ post.date | date: "%Y년 %-m월 %-d일" | markdownify | strip_html }}</p>
   </article>
 </div>
