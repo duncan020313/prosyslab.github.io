@@ -511,8 +511,8 @@ AI 발전으로 지식 습득 장벽이 낮아진 만큼, 나 역시 PL/SE를 �
 하던 것만 하는 지루한 연구자가 되지 않기 위해서 부단히 노력해야겠다.
 
 ## 참고 문헌
-[<a name="Hearable">1</a>] Itani et al. Wireless Hearables With Programmable Speech AI Accelerators
-[<a name="AutoIoT">2</a>] Shen et al. AutoIOT: LLM-Driven Automated Natural Language Programming for AIoT Applications
-[<a name="NeurosymbolicSynth">3</a>] Barnaby et al. PhotoScout: Synthesis-Powered Multi-Modal Image Search
-[<a name="FVBluetooth">4</a>] Le et al. Formalization, Implementation, and Verification of the Bluetooth L2CAP State Machine
+[<a name="Hearable">1</a>] Itani et al. Wireless Hearables With Programmable Speech AI Accelerators \\
+[<a name="AutoIoT">2</a>] Shen et al. AutoIOT: LLM-Driven Automated Natural Language Programming for AIoT Applications \\
+[<a name="NeurosymbolicSynth">3</a>] Barnaby et al. PhotoScout: Synthesis-Powered Multi-Modal Image Search \\
+[<a name="FVBluetooth">4</a>] Le et al. Formalization, Implementation, and Verification of the Bluetooth L2CAP State Machine \\
 [<a name="VeriSafeAgent">5</a>] Lee et al. VeriSafe Agent: Safeguarding Mobile GUI Agent via Logic-based Action Verification
